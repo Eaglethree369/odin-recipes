@@ -23,8 +23,20 @@ ol {
     font-size: 18px;
 }
 
+a {
+    color: blue;
+}
+
+li {
+    margin: 3px;
+}
+
 img {
     height: auto;
     width: 300px;
 }
 
+.title{
+    text-align: center;
+    background-color: aqua;
+}
